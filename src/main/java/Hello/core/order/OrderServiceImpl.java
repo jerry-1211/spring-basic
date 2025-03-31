@@ -2,6 +2,7 @@ package Hello.core.order;
 
 import Hello.core.discount.DiscountPolicy;
 import Hello.core.discount.FixDiscountPolicy;
+import Hello.core.discount.RateDiscountPolicy;
 import Hello.core.member.Member;
 import Hello.core.member.MemberRepository;
 import Hello.core.member.MemoryMemberRepository;
