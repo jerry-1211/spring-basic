@@ -9,6 +9,6 @@ public class MemberApp {
         Member findMember = memberService.findMember(1L);
         System.out.println("member.getName() = " + member.getName());
         System.out.println("findMember.getName() = " + findMember.getName());
-        System.out.println("GIT COMMIT TEST");
+        System.out.println("DS Store 삭제 확인");
     }
 }
