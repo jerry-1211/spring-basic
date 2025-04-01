@@ -1,8 +1,5 @@
 package Hello.core.singleton;
 
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
-
 public class SingletonService {
     private static final SingletonService insatance = new SingletonService();
 
